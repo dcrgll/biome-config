@@ -30,6 +30,7 @@
         "noConstAssign": "error",
         "noConstantCondition": "off",
         "noEmptyCharacterClassInRegex": "warn",
+        "noEmptyPattern": "warn",
         "noGlobalObjectCalls": "warn",
         "noInnerDeclarations": "off",
         "noInvalidUseBeforeDeclaration": "off",
