@@ -1,0 +1,21 @@
+{
+  "name": "@dc_/biome-config",
+  "description": "Dan Cargills Biome config.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "release": "release-it",
+    "dep-updates": "npx npm-check-updates -u"
+  },
+  "exports": {
+    ".": "./src/index.json"
+  },
+  "author": "@dcrgll",
+  "license": "ISC",
+  "devDependencies": {
+    "release-it": "^18.1.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
