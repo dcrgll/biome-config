@@ -75,7 +75,8 @@
         "noSelfCompare": "warn",
         "noShadowRestrictedNames": "warn",
         "noSkippedTests": "warn",
-        "useValidTypeof": "warn"
+        "useValidTypeof": "warn",
+        "noReactSpecificProps": "off"
       }
     }
   },
